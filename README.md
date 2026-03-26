@@ -45,7 +45,7 @@ Given the performance scores of three teams (Team1, Team2, Team3), we aim to:
 
 ---
 
-## 🔄 Workflow
+# Workflow
 
 1. Generated synthetic dataset for 3 teams
 2. Stored dataset in CSV format
@@ -56,26 +56,26 @@ Given the performance scores of three teams (Team1, Team2, Team3), we aim to:
 
 ---
 
-## 📊 Visualization
+# Visua lization
 
 * Boxplot for distribution comparison
 * Bar chart for mean comparison
 
 ---
 
-## 📈 Results & Interpretation
+#  Results & Interpretation
 
 * Calculated **F-statistic** and **p-value**
 * Compared p-value with significance level (α = 0.05)
 
-### ✅ Decision Rule:
+#  Decision Rule:
 
 * If p-value < 0.05 → Reject H₀
 * If p-value ≥ 0.05 → Fail to reject H₀
 
 ---
 
-## 🚀 Key Insights
+#  Key Insights
 
 * ANOVA helps identify whether differences between groups are statistically significant
 * Visualization supports statistical findings
@@ -83,21 +83,15 @@ Given the performance scores of three teams (Team1, Team2, Team3), we aim to:
 
 ---
 
-## 💼 Interview Explanation
+#  Interview Explanation
 
 > "In this project, I applied One-Way ANOVA to compare the performance of three teams. I used SciPy to calculate the F-statistic and p-value, and visualized the results using boxplots to better understand the distribution and differences between groups."
 
 ---
 
-## 🔮 Future Improvements
+# Future Improvements
 
 * Add Tukey HSD post-hoc test
 * Use real-world dataset (Kaggle)
 * Build interactive dashboard
 
----
-
-## 📌 Author
-
-Aditya Singh
-Aspiring Data Scientist 🚀
