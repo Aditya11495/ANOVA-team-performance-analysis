@@ -27,20 +27,6 @@ Given the performance scores of three teams (Team1, Team2, Team3), we aim to:
   * **Team2** → Scores of Team 2
   * **Team3** → Scores of Team 3
 
----
-
-## 🧠 Concept Used
-
-### 🔸 What is ANOVA?
-
-ANOVA is a statistical method used to compare the means of three or more groups.
-
-### 🔸 Formula
-
-F = Variance Between Groups / Variance Within Groups
-
----
-
 ## 📌 Hypothesis
 
 * **Null Hypothesis (H₀):** All team means are equal
