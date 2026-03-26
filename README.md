@@ -27,7 +27,7 @@ Given the performance scores of three teams (Team1, Team2, Team3), we aim to:
   * **Team2** → Scores of Team 2
   * **Team3** → Scores of Team 3
 
-## 📌 Hypothesis
+# Hypothesis
 
 * **Null Hypothesis (H₀):** All team means are equal
 * **Alternative Hypothesis (H₁):** At least one team mean is different
