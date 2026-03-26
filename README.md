@@ -34,7 +34,7 @@ Given the performance scores of three teams (Team1, Team2, Team3), we aim to:
 
 ---
 
-## ⚙️ Tools & Libraries
+# Tools & Libraries
 
 * Python
 * Pandas
