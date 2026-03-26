@@ -18,7 +18,7 @@ Given the performance scores of three teams (Team1, Team2, Team3), we aim to:
 
 ---
 
-## 📁 Dataset
+# Dataset
 
 * Total observations: 60 (20 per team)
 * Features:
