@@ -1,6 +1,6 @@
 # 📊 ANOVA Team Performance Analysis
 
-##  Overview
+# Overview
 
 This project demonstrates the use of **One-Way ANOVA (Analysis of Variance)** to compare the performance of three different teams based on their scores.
 
@@ -8,7 +8,7 @@ The objective is to determine whether there is a statistically significant diffe
 
 ---
 
-## 🎯 Problem Statement
+# Problem Statement
 
 Given the performance scores of three teams (Team1, Team2, Team3), we aim to:
 
