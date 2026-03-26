@@ -1,6 +1,6 @@
 # 📊 ANOVA Team Performance Analysis
 
-## 🔹 Overview
+##  Overview
 
 This project demonstrates the use of **One-Way ANOVA (Analysis of Variance)** to compare the performance of three different teams based on their scores.
 
